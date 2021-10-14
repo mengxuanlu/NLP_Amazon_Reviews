@@ -1,4 +1,4 @@
-# Natural Language Processing on Amazon Customers' Reviews
+# Natural Language Processing for Amazon Customers' Reviews
 
 ## Project Goal:
 
